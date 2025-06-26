@@ -22,8 +22,14 @@ Storage: Local filesystem using fs module (no database)
 🚀 How to Use
 Clone the repo or upload to your local machine
 
-Run npm install
+Go to Directory where project is located then:
 
-Start the server with node app.js or nodemon
+Run in terminal 
+
+npm i express
+
+npm install --save-dev nodemon
+
+Start the server with npx nodemon app.js or nodemon
 
 Open http://localhost:3000 in your browser
