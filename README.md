@@ -22,6 +22,8 @@ Storage: Local filesystem using fs module (no database)
 🚀 How to Use
 Clone the repo or upload to your local machine
 
+Create a hisaab folder in project folder first(must!)
+
 Go to Directory where project is located then:
 
 Run in terminal 
